@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-62:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\99156649c8978a3b823f334e4f1dfd1e\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\94ed670e266d8bf857516fcf9a8ee047\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\2800ff243ba88a02a5467e43aaceb7f7\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\ed1fb4f4c22b1099e078b01551fe3403\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\5aed98e1a7bd35d26e6b7e123a4f58e5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\4cfa2ef3764f868c4ac286f96c605047\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\3112076abd7ec2bbfc2ad97958b041e6\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\e5eab7523fa294709cfed9955605f8ff\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\7f04697b6371bd88d7088940d0625bf3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\28631a0b111c0273601954918fe48ec5\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\c8ba9c87079632ae301244b41716c32d\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\bd4596c4e03a42881733f45db8a548c5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\7c252b02bae32657e4b29db3d4527dd3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\6fd2caf0dd18f178ef5f9afcdc9517b9\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\717c72b0722a368e956109990ac03bb1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\fce4023ffb022b7fe54f88474febcf0a\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\b3b09621cca747e5e8d01c73cf2136e9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\4814206f9931bb2b51fe2820b122a3b6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\04996047d64e599d272e46b4bc2b4730\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\9cbd84ad5ffc691bbb1b8fcaeee4f1c2\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-118
+		INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:119-165
+	android:versionCode
+		INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:166-206
+application
+ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:5-60:19
+MERGED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:5-60:19
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:16:5-18:19
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:16:5-18:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\c8ba9c87079632ae301244b41716c32d\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\c8ba9c87079632ae301244b41716c32d\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\7c252b02bae32657e4b29db3d4527dd3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\7c252b02bae32657e4b29db3d4527dd3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:18-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\c8ba9c87079632ae301244b41716c32d\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+	android:icon
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+supports-screens
+ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+uses-sdk
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\99156649c8978a3b823f334e4f1dfd1e\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\99156649c8978a3b823f334e4f1dfd1e\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\94ed670e266d8bf857516fcf9a8ee047\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\94ed670e266d8bf857516fcf9a8ee047\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\2800ff243ba88a02a5467e43aaceb7f7\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\2800ff243ba88a02a5467e43aaceb7f7\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\ed1fb4f4c22b1099e078b01551fe3403\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\ed1fb4f4c22b1099e078b01551fe3403\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\5aed98e1a7bd35d26e6b7e123a4f58e5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\5aed98e1a7bd35d26e6b7e123a4f58e5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\4cfa2ef3764f868c4ac286f96c605047\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\4cfa2ef3764f868c4ac286f96c605047\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\3112076abd7ec2bbfc2ad97958b041e6\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\3112076abd7ec2bbfc2ad97958b041e6\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\e5eab7523fa294709cfed9955605f8ff\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\e5eab7523fa294709cfed9955605f8ff\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\7f04697b6371bd88d7088940d0625bf3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\7f04697b6371bd88d7088940d0625bf3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\28631a0b111c0273601954918fe48ec5\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\28631a0b111c0273601954918fe48ec5\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\c8ba9c87079632ae301244b41716c32d\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\c8ba9c87079632ae301244b41716c32d\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\bd4596c4e03a42881733f45db8a548c5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\bd4596c4e03a42881733f45db8a548c5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\7c252b02bae32657e4b29db3d4527dd3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\7c252b02bae32657e4b29db3d4527dd3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\6fd2caf0dd18f178ef5f9afcdc9517b9\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\6fd2caf0dd18f178ef5f9afcdc9517b9\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\717c72b0722a368e956109990ac03bb1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\717c72b0722a368e956109990ac03bb1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\fce4023ffb022b7fe54f88474febcf0a\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\fce4023ffb022b7fe54f88474febcf0a\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\b3b09621cca747e5e8d01c73cf2136e9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\b3b09621cca747e5e8d01c73cf2136e9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\4814206f9931bb2b51fe2820b122a3b6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\4814206f9931bb2b51fe2820b122a3b6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\04996047d64e599d272e46b4bc2b4730\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\04996047d64e599d272e46b4bc2b4730\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\9cbd84ad5ffc691bbb1b8fcaeee4f1c2\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\noro-dsa\.gradle\caches\transforms-3\9cbd84ad5ffc691bbb1b8fcaeee4f1c2\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:11:5-68
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-74
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:12:5-74
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-79
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:13:5-79
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:13:5-79
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:14:5-79
+MERGED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:22-64
+uses-feature#0x00020000
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:19-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-72
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-31:33
+	android:value
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:9-34:36
+	android:value
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:9-37:36
+	android:value
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:9-40:37
+	android:value
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:13-34
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-56
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:9-59:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-54:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:25-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-58:40
+	android:value
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:17-57
+activity#com.macrotellect.unityforandroidsdk.UnitySDK
+ADDED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:17:9-81
+	android:name
+		ADDED from [:UnityForAndroidSDK V1.3.3:] C:\Users\noro-dsa\.gradle\caches\transforms-3\5c9eab35e0e96862ff2629b5a8b1a61d\transformed\jetified-UnityForAndroidSDK V1.3.3\AndroidManifest.xml:17:19-78

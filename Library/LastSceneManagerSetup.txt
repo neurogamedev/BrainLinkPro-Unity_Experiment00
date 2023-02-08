@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/BrainLinkBlueToothSDK/Scene/BrainLinkDemo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

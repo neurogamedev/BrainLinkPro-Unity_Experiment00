@@ -1,0 +1,10 @@
+Using template 'Assets/Plugins/Android\AndroidManifest.xml'
+
+android.permission.INTERNET was added because:
+	Analytics
+	Performance Reporting
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::GetTouch was present in:
+		UnityEngine.UI-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		UnityEngine.UI-FeaturesChecked.txt

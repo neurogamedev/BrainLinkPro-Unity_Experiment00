@@ -1,0 +1,18 @@
+<dependencies>
+  <compile
+      roots="C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,:UnityForAndroidSDK V1.3.3:@aar">
+    <dependency
+        name="C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:C:\Unity\BLP_test00\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name=":UnityForAndroidSDK V1.3.3:@aar"/>
+  </package>
+</dependencies>
