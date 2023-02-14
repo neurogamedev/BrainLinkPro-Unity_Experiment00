@@ -1,9 +1,12 @@
 package com.unity3d.player;
 
+import android.Manifest;
 import android.app.Activity;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.content.res.Configuration;
 import android.graphics.PixelFormat;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
@@ -11,6 +14,11 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 import android.os.Process;
+
+import androidx.annotation.NonNull;
+import androidx.core.app.ActivityCompat;
+
+import java.util.ArrayList;
 
 public class UnityPlayerActivity extends Activity implements IUnityPlayerLifecycleEvents
 {
@@ -40,8 +48,44 @@ public class UnityPlayerActivity extends Activity implements IUnityPlayerLifecyc
         mUnityPlayer = new UnityPlayer(this, this);
         setContentView(mUnityPlayer);
         mUnityPlayer.requestFocus();
+
+        requestPermissions();
     }
 
+    String[] permissions = new String[]{
+            android.Manifest.permission.BLUETOOTH,
+            Manifest.permission.ACCESS_COARSE_LOCATION,
+            Manifest.permission.ACCESS_FINE_LOCATION
+    };
+
+    private void requestPermissions() {
+        if (Build.VERSION.SDK_INT > Build.VERSION_CODES.R) {
+            permissions = new String[] {Manifest.permission.BLUETOOTH, Manifest.permission.ACCESS_COARSE_LOCATION, Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.BLUETOOTH_SCAN, Manifest.permission.BLUETOOTH_CONNECT};
+        }
+
+        ArrayList<String> permissionList = new ArrayList<>();
+        for (int i = 0; i < permissions.length; i++) {
+            if (ActivityCompat.checkSelfPermission(UnityPlayerActivity.this, permissions[i]) != PackageManager.PERMISSION_GRANTED) {
+                permissionList.add(permissions[i]);
+            }
+        }
+        if (!permissionList.isEmpty()) {
+            String[] mPermissions = permissionList.toArray(new String[permissionList.size()]);
+            ActivityCompat.requestPermissions(UnityPlayerActivity.this, mPermissions, 100);
+        }
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        if (requestCode == 100) {
+            for (int i = 0; i < grantResults.length; i++) {
+                if (grantResults[i] == PackageManager.PERMISSION_DENIED) {
+                    boolean showRequestPermission =
+                            ActivityCompat.shouldShowRequestPermissionRationale(UnityPlayerActivity.this, permissions[i]);
+                }
+            }
+        }
+    }
     // When Unity player unloaded move task to background
     @Override public void onUnityPlayerUnloaded() {
         moveTaskToBack(true);
